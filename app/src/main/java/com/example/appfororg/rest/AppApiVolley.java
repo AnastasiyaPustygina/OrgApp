@@ -43,7 +43,7 @@ public class AppApiVolley implements AppApi {
 
     public static final String API_TEST = "API_TEST";
     private final Context context;
-    public static final String BASE_URL = "http://192.168.1.103:8081";
+    public static final String BASE_URL = "http://78.40.217.59:9995";
     private Response.ErrorListener errorListener;
 
 
